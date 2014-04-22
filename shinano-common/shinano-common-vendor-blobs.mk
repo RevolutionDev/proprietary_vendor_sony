@@ -69,7 +69,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/shinano-common/proprietary/etc/firmware/adsp.b11:system/etc/firmware/adsp.b11 \
     vendor/sony/shinano-common/proprietary/etc/firmware/adsp.b12:system/etc/firmware/adsp.b12 \
     vendor/sony/shinano-common/proprietary/etc/firmware/adsp.mdt:system/etc/firmware/adsp.mdt \
-    vendor/sony/shinano-common/proprietary/etc/firmware/BCM4339:system/etc/firmware/BCM4339 \
+    vendor/sony/shinano-common/proprietary/etc/firmware/BCM4339.hcd:system/etc/firmware/BCM4339.hcd \
     vendor/sony/shinano-common/proprietary/etc/firmware/cmnlib.b00:system/etc/firmware/cmnlib.b00 \
     vendor/sony/shinano-common/proprietary/etc/firmware/cmnlib.b01:system/etc/firmware/cmnlib.b01 \
     vendor/sony/shinano-common/proprietary/etc/firmware/cmnlib.b02:system/etc/firmware/cmnlib.b02 \
@@ -145,7 +145,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/shinano-common/proprietary/lib/libcacao_client.so:system/lib/libcacao_client.so \
     vendor/sony/shinano-common/proprietary/lib/libcacao_common.so:system/lib/libcacao_common.so \
     vendor/sony/shinano-common/proprietary/lib/libcacao_face.so:system/lib/libcacao_face.so \
-    vendor/sony/shinano-common/proprietary/lib/libcacao_imgconv.so:system/lib/libcacao_imgconv.so \
+    vendor/sony/shinano-common/proprietary/lib/libcacao_imageconv.so:system/lib/libcacao_imageconv.so \
     vendor/sony/shinano-common/proprietary/lib/libcacao_imgproc.so:system/lib/libcacao_imgproc.so \
     vendor/sony/shinano-common/proprietary/lib/libcacao_jpeg.so:system/lib/libcacao_jpeg.so \
     vendor/sony/shinano-common/proprietary/lib/libcacao_pal.so:system/lib/libcacao_pal.so \
